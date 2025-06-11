@@ -19,6 +19,7 @@ public class Kontakty {
 
     //Konstruktor klasy Kontakty z przypisanymi zmiennymi startowymi (przeciążenie konstruktora)
     public Kontakty(String imie , String nazwisko,String email, int id , int numerTelefonu){
+        this.imie = imie;
         this.nazwisko = nazwisko;
         this.email = email;
         this.id = id;
