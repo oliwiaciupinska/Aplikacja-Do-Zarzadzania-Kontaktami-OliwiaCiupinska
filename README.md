@@ -1,4 +1,4 @@
-# Projek-Aplikacja-Do-Zarzadzania-Kontaktami-Oliwia-Ciupinska
+# Projekt-Aplikacja-Do-Zarzadzania-Kontaktami-Oliwia-Ciupinska
 # Aplikacja do zarządzania kontaktami
 
 ## Opis
